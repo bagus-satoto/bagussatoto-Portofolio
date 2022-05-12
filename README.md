@@ -24,8 +24,9 @@
 
 <!-- Profile -->
 <h1 align="center">Hi 👋, I'm BAGUS BUDI SATOTO</h1>
-<h2 align="center">📌 I'm a student at Universitas Amikom Yogyakarta, Indonesia.</h2>
-<h3 align="center"> 🧑🏽‍💻 Programmer My Jobs</h3>
+<h2 align="center"> 📌 I'm a student at Universitas Amikom Yogyakarta, Indonesia.</h2>
+<h2 align="center">  My major is Bachelor of Informatics</h2>
+<h3 align="center"> 🧑🏽‍💻 Freelance Programmer My Jobs</h3>
 <h3 align="center"> 🖥️ Web Developer and Software Enginnering. 🖥️</h3>
 <!-- End -->
 
@@ -34,7 +35,7 @@
   ❤️ You can use this service for free. I'm looking for sponsors to help us keep up with this service ❤️
 </p>
 <p align="center">
-  <a href="https://github.com/sponsors/bagussatoto">
+  <a href="https://saweria.co/bagussatoto1">
     <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
 </p>
@@ -47,7 +48,6 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-<p align="left"> <a href="https://twitter.com/bagussatoto1" target="blank"><img src="https://img.shields.io/twitter/follow/bagussatoto1?logo=twitter&style=for-the-badge" alt="bagussatoto1" /></a> </p>
 
 <!-- Coonection -->
 <h3 align="left">Connect with me:</h3>
