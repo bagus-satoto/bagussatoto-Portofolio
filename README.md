@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BAGUS BUDI SATOTO</h1>
-<h2 align="center"> Bachelor  Informatics At Universitas Amikom Yogyakarta, Indonesia.</h3>
+<h2 align="center"> Bachelor  Informatics At Universitas Amikom Yogyakarta, Indonesia.</h2>
 <h3 align="center"> Web Developer and Software Enginnering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagussatoto&label=Profile%20views&color=0e75b6&style=flat" alt="bagussatoto" /> </p>
