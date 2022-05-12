@@ -25,7 +25,7 @@
 <!-- Profile -->
 <h1 align="center">Hi 👋, I'm BAGUS BUDI SATOTO</h1>
 <h2 align="center">📌 I'm a student at Universitas Amikom Yogyakarta, Indonesia.</h2>
-<h3 align="center"> 🧑🏽‍💻 Programmmer My Jobs</h3>
+<h3 align="center"> 🧑🏽‍💻 Programmer My Jobs</h3>
 <h3 align="center"> 🖥️ Web Developer and Software Enginnering. 🖥️</h3>
 <!-- End -->
 
