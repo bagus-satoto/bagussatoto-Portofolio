@@ -5,13 +5,13 @@
 </p>
 <!-- Issue -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+  <a href="https://github.com/bagussatoto/bagussatoto/issues">
     <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
+  <a href="https://github.com/bagussatoto/bagussatoto/network/members">
     <img src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
   </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
+  <a href="https://github.com/bagussatoto/bagussatoto/stargazers">
     <img src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
   </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
@@ -41,12 +41,17 @@
 </p>
 <!-- End -->
 
+
 <!-- Troppy -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagussatoto&label=Profile%20views&color=0e75b6&style=flat" alt="bagussatoto" /> </p>
 
+
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=buddhism" />
 </p>
+
+
+
 
 
 <!-- Coonection -->
@@ -65,10 +70,12 @@
 
 
 
-
+<!--pencapaian -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagussatoto&show_icons=true&locale=en&layout=compact" alt="bagussatoto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bagussatoto&show_icons=true&locale=en" alt="bagussatoto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussatoto&" alt="bagussatoto" /></p>
+<!-- End -->
+
 
