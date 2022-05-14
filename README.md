@@ -23,22 +23,19 @@
 </p>
 <!-- End -->
 
-
-<!-- Profile -->
-<h1 align="center"> Hii 👋, I'm BAGUS BUDI SATOTO</h1>
-
 <!-- Name Pack -->
 <p align="center">
 <a href="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesia+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...">
-  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesia+Software+Engineering;Open+Source+Developer+Advocate;Web+Developer+Get+Front+End+Dev;Technical+Network+Engineer;That’s+great!+nice+to+meet+you.." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesia+Software+Engineering;Open+Source+Developer+Advocate;Web+Developer+Get+Front+End+Dev;Technical+Network+Engineering;That’s+great!+nice+to+meet+you.." />
 </a>
 <!-- End -->
 
-<!-- Bio -->
+<!-- Profile -->
+<h1 align="center"> Hii 👋, I'm BAGUS BUDI SATOTO</h1>
 <h2 align="center"> 📌 I'm a student at Universitas Amikom Yogyakarta, Indonesia.</h2>
 <h2 align="center">  Major Bachelor of Informatics</h2>
 <h3 align="center"> 🧑🏽‍💻 Profession IT Enginnering At Telkom Indonesia</h3>
-<h3 align="center"> 🖥️ Web Developer and Software Enginnering. 🖥️</h3>
+<h3 align="center"> 🖥️ Web Developer and Software Enginnering 🖥️</h3>
 <!-- End -->
 
 <!-- Sponsore -->
@@ -66,7 +63,7 @@
 
 
 <!-- Coonection -->
-><h3 align="left"> 🔗 Contact with me :</h3>
+><h3 align="left"> 🔗 Contact With Me :</h3>
 <p align="left">
 <a href="https://twitter.com/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sibagus_nokel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bagussatoto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bagussatoto1" height="30" width="40" /></a>
@@ -82,7 +79,7 @@
 
 
 <!--pencapaian -->
-><h3 align="left"> 📈 Achievements in used me :</h3>
+><h3 align="left"> 📈 Achievements In Used Me :</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bagussatoto&show_icons=true&locale=en&layout=compact" alt="bagussatoto" /></p>
 
@@ -91,5 +88,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bagussatoto&" alt="bagussatoto" /></p>
 <!-- End -->
 
-
-><h3 align="left"> 💻 by BAGUS BUDI SATOTO </h3>
+><h3 align="Left">
+<a href="https://github.com/bagussatoto" target="_blank">💻 By BAGUS BUDI SATOTO </a></h3>
