@@ -26,7 +26,7 @@
 <!-- Name Pack -->
 <p align="center">
 <a href="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesia+Software+Engineer;Open-Source+Developer+Advocate;Cybersecurity+Researcher;and+Technopreneur!;Nice+to+meet+you...">
-  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesia+Software+Engineering;Open+Source+Developer+Advocate;Web+Developer+Get+Front+End+Dev;Technical+Network+Engineering;Technical+Support+Engineering;tecnical+Internet+Enginnering " />
+  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Indonesia+Software+Engineering;Open+Source+Developer+Advocate;Web+Developer+Get+Front+End+Dev;Technical+Network+Engineering;Technical+Support+Engineering;tecnical+Internet+Enginnering" />
 </a>
 <!-- End -->
 
