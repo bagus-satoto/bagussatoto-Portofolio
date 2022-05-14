@@ -11,3 +11,6 @@ issuehunt: # Replace with a single IssueHunt username bagussatoto [https://issue
 otechie: # Replace with a single Otechie username bagussatoto [https://otechie.com/]
 lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry [https://lfx.io/]
 custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2'] [https://example.com/]
+
+custom : https://www.paypal.com/paypalme/bagussatoto1
+custom : https://saweria.co/bagussatoto1 
