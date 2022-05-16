@@ -38,13 +38,14 @@
 <h3 align="center"> 🖥️ Web Developer and Software Enginnering 🖥️</h3><br>
 <!-- End -->
 
+<h1 align="Left"> </h1>
 <!-- Sponsore -->
 <p align="center">
   ❤️ You can use this service for free. I'm looking for sponsors to help us keep up with this service ❤️
 </p>
 <p align="center">
   <a href="https://saweria.co/bagussatoto1">
-    <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+    <img src="https://img.shields.io/static/v1?label=Saweria&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
   </a>
 </p><br><br>
 <!-- End -->
