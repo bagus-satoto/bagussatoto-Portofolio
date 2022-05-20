@@ -50,6 +50,9 @@
 <p align="center">
   <a href="https://saweria.co/bagussatoto1">
     <img src="https://img.shields.io/static/v1?label=Saweria&message=%E2%9D%A4&logo=GitHub&color=ff69b4"/> 
+  </a> 
+  <a href="https://www.paypal.com/paypalme/bagussatoto1">
+    <img src="https://img.shields.io/static/v1?label=Paypal&message=%E2%9D%A4&logo=paypal&color=ff69b4"/> 
   </a>
 </p>
 <!-- End -->
@@ -61,7 +64,10 @@
 <!-- view -->
 <p align="center">
     <a href="https://github.com/bagussatoto/" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=bagussatoto&label=Profile%20views&color=000000&style=flat-square" alt="bagussatoto"/>
+        <img src="https://komarev.com/ghpvc/?username=bagussatoto&label=Profile%20views&color=000000&style=flat-square" alt="view profile"/>
+    </a>
+    <a href="https://github.com/bagussatoto/" target="_blank">
+        <img src="https://img.shields.io/badge/Age-20-black" alt="Age"/>
     </a>
     <a href="https://badges.pufler.dev" target="_blank">
         <img src="https://badges.pufler.dev/years/bagussatoto?style=flat-square&color=000000" alt="Years Badge"/>
@@ -122,7 +128,6 @@
 </p>
 <!-- End -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-<br>
 
 <h2 align="center">Watch my contribution graph get eaten by the snake 🐍</h2><br>
 
