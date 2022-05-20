@@ -129,10 +129,11 @@
 <!-- End -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-<h2 align="center">Watch my contribution graph get eaten by the snake 🐍</h2><br>
+<h2 align="center">🐍 Watch My Contribution Graph Get Eaten By the snake 🐍</h2><br>
 
 <!-- Snake -->
 <!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
+
 ![bagussatoto snake gif](https://github.com/bagussatoto/bagussatoto/blob/main/.github/Icon/snake.svg) 
 
 <!-- End -->
